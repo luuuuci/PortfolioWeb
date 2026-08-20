@@ -763,6 +763,33 @@ textarea {
     font-size: 1.2rem;
   }
 
+   .timeline-item-sub {
+        gap: 10px;
+        margin-bottom: 25px;
+    }
+
+    .dot-sub {
+        margin-left: 15px;
+        min-width: 14px;
+        height: 14px;
+        margin-top: 8px;
+    }
+
+    .timeline-content-sub {
+        flex: 1;
+        min-width: 0;
+    }
+
+    .timeline-content-sub h5 {
+        font-size: 1rem;
+        line-height: 1.3;
+    }
+
+    .timeline-content-sub p {
+        font-size: 0.9rem;
+        line-height: 1.45;
+    }
+
    .skills-panel-content {
         margin-top: 100px;
     }
@@ -878,6 +905,27 @@ textarea {
     font-size: 0.82rem;
   }
 
+
+      .timeline-item-sub {
+        gap: 8px;
+        margin-bottom: 22px;
+    }
+
+    .dot-sub {
+        margin-left: 5px;
+        min-width: 12px;
+        height: 12px;
+        margin-top: 7px;
+    }
+
+    .timeline-content-sub h5 {
+        font-size: 0.95rem;
+    }
+
+    .timeline-content-sub p {
+        font-size: 0.85rem;
+        line-height: 1.45;
+    }
 
   /* OTHER SECTIONS */
 
